@@ -1,0 +1,16 @@
+C:\w6\CoffeMaket\bin\Debug\net5.0\CoffeMaket.exe
+C:\w6\CoffeMaket\bin\Debug\net5.0\CoffeMaket.deps.json
+C:\w6\CoffeMaket\bin\Debug\net5.0\CoffeMaket.runtimeconfig.json
+C:\w6\CoffeMaket\bin\Debug\net5.0\CoffeMaket.runtimeconfig.dev.json
+C:\w6\CoffeMaket\bin\Debug\net5.0\CoffeMaket.dll
+C:\w6\CoffeMaket\bin\Debug\net5.0\ref\CoffeMaket.dll
+C:\w6\CoffeMaket\bin\Debug\net5.0\CoffeMaket.pdb
+C:\w6\CoffeMaket\obj\Debug\net5.0\CoffeMaket.csprojAssemblyReference.cache
+C:\w6\CoffeMaket\obj\Debug\net5.0\CoffeMaket.GeneratedMSBuildEditorConfig.editorconfig
+C:\w6\CoffeMaket\obj\Debug\net5.0\CoffeMaket.AssemblyInfoInputs.cache
+C:\w6\CoffeMaket\obj\Debug\net5.0\CoffeMaket.AssemblyInfo.cs
+C:\w6\CoffeMaket\obj\Debug\net5.0\CoffeMaket.csproj.CoreCompileInputs.cache
+C:\w6\CoffeMaket\obj\Debug\net5.0\CoffeMaket.dll
+C:\w6\CoffeMaket\obj\Debug\net5.0\ref\CoffeMaket.dll
+C:\w6\CoffeMaket\obj\Debug\net5.0\CoffeMaket.pdb
+C:\w6\CoffeMaket\obj\Debug\net5.0\CoffeMaket.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\w6\TiendaApp\bin\Debug\net5.0\TiendaApp.exe
+C:\w6\TiendaApp\bin\Debug\net5.0\TiendaApp.deps.json
+C:\w6\TiendaApp\bin\Debug\net5.0\TiendaApp.runtimeconfig.json
+C:\w6\TiendaApp\bin\Debug\net5.0\TiendaApp.runtimeconfig.dev.json
+C:\w6\TiendaApp\bin\Debug\net5.0\TiendaApp.dll
+C:\w6\TiendaApp\bin\Debug\net5.0\ref\TiendaApp.dll
+C:\w6\TiendaApp\bin\Debug\net5.0\TiendaApp.pdb
+C:\w6\TiendaApp\obj\Debug\net5.0\TiendaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\w6\TiendaApp\obj\Debug\net5.0\TiendaApp.AssemblyInfoInputs.cache
+C:\w6\TiendaApp\obj\Debug\net5.0\TiendaApp.AssemblyInfo.cs
+C:\w6\TiendaApp\obj\Debug\net5.0\TiendaApp.csproj.CoreCompileInputs.cache
+C:\w6\TiendaApp\obj\Debug\net5.0\TiendaApp.dll
+C:\w6\TiendaApp\obj\Debug\net5.0\ref\TiendaApp.dll
+C:\w6\TiendaApp\obj\Debug\net5.0\TiendaApp.pdb
+C:\w6\TiendaApp\obj\Debug\net5.0\TiendaApp.genruntimeconfig.cache
+C:\w6\TiendaApp\obj\Debug\net5.0\TiendaApp.csproj.AssemblyReference.cache
